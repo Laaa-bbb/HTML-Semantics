@@ -30,7 +30,8 @@ section{
     height: 20vh;
     display: flex;
     background-color: violet;
-    border: 5px solid white;    align-items: center;
+    border: 5px solid white;    
+    align-items: center;
     justify-content: center;
 }
 article{
