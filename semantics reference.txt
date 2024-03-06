@@ -1,0 +1,3 @@
+In summary, if you want to italicize text for its semantic importance or emphasis, use <em>. If you want to italicize text purely for visual styling without any implied meaning, use <i>. However, with the introduction of HTML5, it's generally recommended to use semantic elements like <em> whenever possible to convey meaning more accurately.
+
+In summary, if you want to emphasize text for its semantic importance or significance, use <strong>. If you want to bold text purely for visual styling without any implied meaning, use <b>. However, it's generally recommended to use semantic elements like <strong> whenever possible to convey meaning more accurately.
